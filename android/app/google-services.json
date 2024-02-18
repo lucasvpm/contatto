@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "647858293339",
+    "project_id": "contatto-895d3",
+    "storage_bucket": "contatto-895d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647858293339:android:e5c0076872d541c9e8cd7e",
+        "android_client_info": {
+          "package_name": "com.example.app_contatto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647858293339-9t5tt3j278gnbgkp63o1c6m7jfsg3c7u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6tBHH_uYvBLwBD3dlNPKucyvQhYF6vec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "647858293339-9t5tt3j278gnbgkp63o1c6m7jfsg3c7u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
